@@ -1,0 +1,1007 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"pos",
+				"posX"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"v",
+				"validaNumero"
+			],
+			[
+				"valida",
+				"validaNombre"
+			],
+			[
+				"val",
+				"validaNombre"
+			],
+			[
+				"valor",
+				"valorNum"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"in",
+				"inputs\tinput - submit"
+			],
+			[
+				"mov",
+				"moverPelDer"
+			],
+			[
+				"mover",
+				"moverPel"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"coo",
+				"coordenadaY"
+			],
+			[
+				"Ejerc",
+				"Ejercicio15"
+			],
+			[
+				"enl",
+				"enlace_3"
+			],
+			[
+				"en",
+				"enlace_1"
+			],
+			[
+				"sin",
+				"sinEspaciosString"
+			],
+			[
+				"Ejercici",
+				"Ejercicio09"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"validar",
+				"validarTextArea"
+			],
+			[
+				"area",
+				"areaTexto"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"formu",
+				"formulario"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"form",
+				"formulario"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"inp",
+				"inputb\tinput - button"
+			],
+			[
+				"div",
+				"div3"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"onk",
+				"onkeypress\tAttr"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"sele",
+				"seleccionado"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"input",
+				"inputb\tinput - button"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"k",
+				"keyCode"
+			],
+			[
+				"aux",
+				"auxLeft"
+			],
+			[
+				"on",
+				"onkeyup"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fa",
+				"fallo"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"backgro",
+				"backgroundColor"
+			],
+			[
+				"onm",
+				"onmouseover\tAttr"
+			],
+			[
+				"styl",
+				"style\tAttr"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"TE",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"u",
+				"X-UA-Compatible"
+			],
+			[
+				"cont",
+				"contadorEquipB"
+			],
+			[
+				"conta",
+				"contadorEquipA"
+			],
+			[
+				"contador",
+				"contadorEquipB"
+			],
+			[
+				"copia",
+				"copiaMayus"
+			],
+			[
+				"sl",
+				"split"
+			],
+			[
+				"pal",
+				"palindromo"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"resul",
+				"resultado"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"ultimo",
+				"ultimoCaracter"
+			],
+			[
+				"ulti",
+				"ultimoCaracter"
+			],
+			[
+				"letr",
+				"letrasNumero"
+			],
+			[
+				"letras",
+				"letrasNumero"
+			],
+			[
+				"letra",
+				"letraFinal"
+			],
+			[
+				"char",
+				"charset\tAttr"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"prueb",
+				"prueba2"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"Hol",
+				"holaMundo"
+			],
+			[
+				"no",
+				"noscript\tTag"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"inputt",
+				"inputt\tinput - text"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"fi",
+				"fieldset\t<fieldset>"
+			],
+			[
+				"col",
+				"collapse"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"tex-de",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"ti",
+				"title\tAttr"
+			],
+			[
+				"link",
+				"link\tTag"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"hr",
+				"href\tAttr"
+			],
+			[
+				"deci",
+				"decimal-leading-zero"
+			],
+			[
+				"pre",
+				"pre-line"
+			],
+			[
+				"base",
+				"baseline"
+			],
+			[
+				"fn",
+				"font"
+			],
+			[
+				"serif",
+				"sans-serif"
+			],
+			[
+				"ser",
+				"serif"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"htm",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"ech",
+				"echo\techo \"…\""
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inlin",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/andresillo/Desktop/Trabajo/Mi primera aplicación/GestionEquipo/src/index.html",
+			"settings":
+			{
+				"buffer_size": 1655,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/andresillo/Desktop/Trabajo/Mi primera aplicación/GestionEquipo/src/app/app.module.ts",
+			"settings":
+			{
+				"buffer_size": 814,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/andresillo/Desktop/Trabajo/Mi primera aplicación/GestionEquipo/src/pages/home/home.ts",
+			"settings":
+			{
+				"buffer_size": 342,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/andresillo/Desktop/Trabajo/Mi primera aplicación/GestionEquipo/src/pages/home/home.html",
+			"settings":
+			{
+				"buffer_size": 400,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 279,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Trabajo teclados/estilo1.css",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Trabajo teclados/index.html",
+		"/C/Users/andresillo/Desktop/ExamenAndrésFernándezNadales/index.html",
+		"/C/Users/andresillo/Desktop/ExamenAndrésFernándezNadales/examen.js",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/EjercicioEventos.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/prueba.js",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/Pruebas.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/EventosVDAM.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/DOM.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/Funciones.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/Formularios.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2 Andres/validacion.html",
+		"/C/Users/andresillo/Desktop/ExamenAndrésFernándezNadales/script",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/pingpong.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/EjerciciosLibro.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2 Andres/PrimeraPruebaJavaScript.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/Bucles.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/Condicionales.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2 Andres/infoeventos2.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2 Andres/infoeventos.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/MétodosYPropiedadesStrings.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/validacion.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/infoeventos2.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/infoeventos.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/Eventos.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/Ejercicio15.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/Ejercicio14.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/Ejercicio16.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/formuJavaScript.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/Arrays.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/TiposDeDatos.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/Variables.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/Introduccion.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tema 2/intro.js",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Trabajo teclados/estilosGenerales.css",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/PrimeraPruebaJavaScript.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/Eventos.html",
+		"/C/Users/andresillo/Downloads/ejercicoEjemploOnKey.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Trabajo teclados/formulario.php",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/Ejercicio12.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Trabajo teclados/biblio.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Trabajo teclados/donde.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Trabajo teclados/tipos.html",
+		"/C/xampp/htdocs/andresfernandeznadales/Malaga.html",
+		"/C/xampp/htdocs/andresfernandeznadales/formulario.php",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Trabajo teclados/marcas.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/Ejercicio13.html",
+		"/C/Users/andresillo/Desktop/Trabajo/PrimeraAplicacion/myApp2/src/pages/home/home.html",
+		"/C/Users/andresillo/Desktop/PrimeraAplicacion/myApp2/src/index.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Trabajo teclados/instalacion.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Trabajo teclados/funcionamiento.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/Nodos.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Programación/POO/src/poo/Ejercicio1-7",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/Ejercicio11.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/Ejercicio09.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/Ambitodelasvariables.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/FuncionesJavaScript.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/SeptimoEjercicio.html",
+		"/C/xampp/htdocs/andresfernandeznadales/estilo.css",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/estilos.css",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Apuntes CSS/estilofuente.css",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/BreakContinue.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/EjercicioSwitch.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/CuartoEjercicio.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/Ejercicio08.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/Ejercicio10.html",
+		"/C/Users/andresillo/AppData/Roaming/.minecraft/versions/Huzuni 3.5 VIP/Huzuni 3.5 VIP.json",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/SextoEjercicio.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/SegundoEjercicio.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/JavaScript/PrimeraPrueba.js",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/QuintoEjercicio.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 2/TercerEjercicio.html",
+		"/C/Users/andresillo/Desktop/holamundo.scala",
+		"/C/xampp/htdocs/andresfernandeznadales/Granada.html",
+		"/C/xampp/htdocs/andresfernandeznadales/index.html",
+		"/C/Users/andresillo/Desktop/posiciones.html",
+		"/C/xampp/htdocs/dam/Ejercicio16.html",
+		"/C/xampp/htdocs/dam/Ejercicio16.php",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/EjemploTablasComplejas.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/pruebafuenteinternet.html",
+		"/C/Users/andresillo/Desktop/andresfernandeznadales/estilo.css",
+		"/C/Users/andresillo/Desktop/andresfernandeznadales/Granada.html",
+		"/C/Users/andresillo/Desktop/andresfernandeznadales/Malaga.html",
+		"/C/Users/andresillo/Desktop/andresfernandeznadales/index.html",
+		"/C/Users/andresillo/Desktop/andresfernandeznadales/formulario.php",
+		"/C/Users/andresillo/Desktop/Cositas HTML & CSS by SalviRB/CSS/Examen Año pasado/examenañaopasado.html",
+		"/C/xampp/htdocs/Examen/PHP/archivo.php",
+		"/C/xampp/htdocs/Examen/CSS/estilo.css",
+		"/C/xampp/htdocs/Examen/index.html",
+		"/C/Users/andresillo/Desktop/CSS Ale/Lorem ipsum_files/ejercicio7.css",
+		"/C/Users/andresillo/Desktop/CSS Ale/Lorem ipsum_files/pagina_completa_estilos.css",
+		"/C/Users/andresillo/Desktop/CSS Ale/ExamenCSS Robledo/estilo.css",
+		"/C/xampp/htdocs/dam/index.html",
+		"/C/xampp/htdocs/dam/prueba.php",
+		"/C/Users/andresillo/Desktop/CSS Ale/posicionamientoabs.css",
+		"/C/Users/andresillo/Desktop/Cositas HTML & CSS by SalviRB/HTML-PHP/Ejercicios/7. Prueba con imagenes y coordenadas/Prueba con imagenes y coordenadas.html",
+		"/C/Users/andresillo/Desktop/Cositas HTML & CSS by SalviRB/HTML-PHP/Ejercicios/test.php",
+		"/C/Users/andresillo/Desktop/Cositas HTML & CSS by SalviRB/CSS/Salvador Rebollo Benítez - ACTIVIDADES PARA ENTREGAR/Otras interesantes/Practicas css 1 Jugando con el position y el display/estilo.css",
+		"/C/Users/andresillo/Desktop/prueba.php",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Listas.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Imagenes.html",
+		"/C/xampp/htdocs/prueba/prueba.php",
+		"/C/xampp/htdocs/prueba/formulario.html",
+		"/C/xampp/htdocs/prueba/index.html",
+		"/C/Users/andresillo/Desktop/formulario.html",
+		"/C/Users/andresillo/Desktop/practicas.html",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Formularios.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Tablas.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Enlace.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/htmlCSS.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/PracticaFormulario.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/formulariocss.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/layoutorueba.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Ejercicios/EstilosEjercicio05.css",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/tablacss.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/Ejercicio204.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Etiquetas para texto.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Estudios por mi cuenta/Primero.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/imagenesyenlacescss.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/Estilo1.css",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/iframe.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/posiciones.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/prueb22.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/Estilo3.css",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/Estilo2.css",
+		"/C/Users/andresillo/Desktop/prueba.html",
+		"/C/Users/andresillo/Desktop/Trabajo/1º DAM/Lenguajes de marcas y sistemas/Tema 1/Prácticas/pruebaima.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"left",
+			"] ",
+			";\n",
+			"solid",
+			";\n",
+			");}\n",
+			"div",
+			"6"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/andresillo/Desktop/Trabajo/Mi primera aplicación/GestionEquipo/src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/andresillo/Desktop/Trabajo/Mi primera aplicación/GestionEquipo/src/app/app.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								441,
+								392
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/andresillo/Desktop/Trabajo/Mi primera aplicación/GestionEquipo/src/pages/home/home.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119,
+								119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/andresillo/Desktop/Trabajo/Mi primera aplicación/GestionEquipo/src/pages/home/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cursoTypeScript.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
